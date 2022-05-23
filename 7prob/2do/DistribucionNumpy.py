@@ -1,4 +1,4 @@
-#la estatura promedio de los hombres en mexico es 170cm
+#la estatura promedio de los hombres en mexico es 170cm y que porcentaje de la poblacion supera la estatura de 170
 import numpy as np
 
 import matplotlib.pyplot as plt
